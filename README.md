@@ -6,3 +6,4 @@
 * * * * * try to interact with Rst in this manner
 * * ideally this will evolve into a DAO - https://en.wikipedia.org/wiki/Decentralized_autonomous_organization
 * review the entire GitHub structure with an aim of simplification
+* consider a OnceMonthlu update to neglected repos as an indicator to unexpected guests
