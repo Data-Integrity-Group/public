@@ -3,6 +3,8 @@
 * * For the moment, Private content is shared with selected subGroups via Notion.
 * * * MicroContent should be as Public as possible.  ( See HeadStarts for FocusedContext benefits )
 * * * * Cj seems most interested in this tool
+* * * * * the localHost functions show promise
+* * * * * * describe this to Rst in as a teaser for a demo by CJ
 * * * * * try to interact with Rst in this manner
 * * ideally this will evolve into a DAO - https://en.wikipedia.org/wiki/Decentralized_autonomous_organization
 * review the entire GitHub structure with an aim of simplification
