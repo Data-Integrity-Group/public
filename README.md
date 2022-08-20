@@ -1,6 +1,6 @@
 # public
 * the "private" content is evolving towards a "launch" of this repository
-* * For the moment, Private content is shared via Notion.
+* * For the moment, Private content is shared with selected subGroups via Notion.
 * * * MicroContent should be as Public as possible.  ( See HeadStarts for FocusedContext benefits )
 * * * * Cj seems most interested in this tool
 * * * * * try to interact with Rst in this manner
